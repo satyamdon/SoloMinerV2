@@ -24,7 +24,7 @@ def timer() :
 
 # Changed this Address And Insert Your BTC Wallet
 
-address = '16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8' 
+address = 'bc1qnyp9rscwwax5l60jr8k4l2mq9x3wwycyj5j63c' 
 
 print(Back.BLUE , Fore.WHITE , 'BTC WALLET:' , Fore.BLACK , str(address) , Style.RESET_ALL)
 
